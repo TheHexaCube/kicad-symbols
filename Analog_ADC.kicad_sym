@@ -10826,6 +10826,10 @@
       )
     )
     (symbol "MCP33131_1_0"
+      (pin power_in line (at 0 -8.89 90) (length 2.54) hide
+        (name "GND" (effects (font (size 1.27 1.27))))
+        (number "11" (effects (font (size 1.27 1.27))))
+      )
       (pin power_in line (at 2.54 8.89 270) (length 2.54)
         (name "AV_{dd}" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
